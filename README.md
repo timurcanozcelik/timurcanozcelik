@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @timurcanozcelik, a psychology and developmental neuroscience research assistant and an aspiring PhD student! 
 
-- 👀 I’m interested in doing research that helps us understand how subjective experience comes about, how a the sense that I am me emerges, and how an understanding of these things can inform the way we understand how some people lead fulfilling lives while others struggle to. 
+- 👀 I’m interested in doing research that helps us understand how subjective experience comes about, how a the sense that I am me emerges, and how an understanding of these things can inform what we know about how some people lead fulfilling lives while others struggle to. 
 
-- 🌱 I’m currently learning how to make computers do computer and statistics things, with the hope that they will help me conduct interesting research and make pretty graphs. I've also recently started learning to aggresively hug people by practicing Brazillian Jiu Jitsu and am learning to express myself better by playing the guitar. 
+- 🌱 I’m currently learning how to make computers do computer and statistics things, with the hope that they will help me conduct interesting research and make pretty graphs. I've also recently started practicing Brazillian Jiu Jitsu and am learning to play the guitar. 
 
 - 📫 How to reach me: timurcanozcelik@gmail.com 
 
